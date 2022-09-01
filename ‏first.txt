@@ -3,3 +3,4 @@ gitの練習をしていきます。
 ・gitadd
 ・gitcommit
 ・gitrm
+・gitstatus
